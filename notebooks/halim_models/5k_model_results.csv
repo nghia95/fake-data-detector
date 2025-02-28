@@ -1,0 +1,3 @@
+Model,Loss,Accuracy
+Gradient Boost (Halim's cleaning) No Feature,0.2535,0.8975
+Gradient Boost (Viviek's cleaning) No Feature,0.2603,0.895
